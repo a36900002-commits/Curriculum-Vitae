@@ -1,0 +1,39 @@
+body {
+    background-color:slategrey;
+    text-align: center;
+    margin-top: 200px;
+}
+.имя {
+    background-color: aqua;
+    border-radius:15px ;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black ;
+    font-size: medium;
+}
+.фамилия {
+     background-color: aqua;
+    border-radius:15px ;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black ;
+    font-size: medium;
+}
+.email {
+     background-color: aqua;
+    border-radius:15px ;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black ;
+    font-size: medium;
+    cursor: auto;
+}
+.отправить {
+    Background-color: aqua;
+    border-radius:15px ;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid black ;
+    font-size: medium;
+    cursor: auto;
+}
